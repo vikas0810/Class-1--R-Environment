@@ -1,29 +1,13 @@
-## Overview of the R Studio IDE
-## Various sections and their utility
 
-## How to run a command in R?
-# Option 1 : Use the Run botton
-# Option 2 : Go to the line -> Press Ctrl + Enter
-
-## Where are the results seen in R?
-# Ans : The R console
 5+7
 2+3
 
-## What Version of R are we using?
-R.Version()
-sessionInfo()
-
-############# Setting up the Working Directory  #################
-
-## Get the Current Working Directory
 getwd()
 
 ## Set the Working Directory
 
-setwd("C:\\Ram\\General 20150804 v1\\Trainings\\R Programming for Data Science")
-## Notice the direction of the slash (/)
-setwd("C:/Ram/General 20150804 v1/R Training NAB/Day 1")
+setwd("/Users/admin/Desktop/Term 4/AMMA/Assignments/AMMA Final Assignment")
+
 
 getwd()
 
